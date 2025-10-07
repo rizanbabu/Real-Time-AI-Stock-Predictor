@@ -20,7 +20,7 @@ logging.getLogger('streamlit').setLevel(logging.ERROR)
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Stock Predictor Pro",
+    page_title="ML Stock Predictor Pro",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
