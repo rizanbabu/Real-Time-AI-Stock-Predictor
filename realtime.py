@@ -255,7 +255,7 @@ def format_number(value):
 
 def main():
     # Header with modern design
-    st.markdown('<div class="main-header">🚀 AI Stock Predictor Pro</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">🚀 ML Stock Predictor Pro</div>', unsafe_allow_html=True)
     
     # Initialize predictor
     predictor = RealTimeStockPredictor()
